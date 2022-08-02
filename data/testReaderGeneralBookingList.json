@@ -1,0 +1,10 @@
+{"Booking": [
+  {
+    "from": "Vancouver",
+    "to": "Toronto"
+  },
+  {
+    "from": "Toronto",
+    "to": "Waterloo"
+  }
+]}
